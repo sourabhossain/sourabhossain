@@ -6,7 +6,8 @@ This is <b>Sourab Hossain</b>.
 
 ```js
 {
-  "Frontend" : ["HTML", "CSS", "JavaScript", "PHP", "MySql" ...more],
+  "Frontend" : ["HTML", "CSS", "JavaScript" ...more],
+  "Backend"  : ["PHP", "MySql" ...more] 
 }
 ```
 
