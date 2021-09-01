@@ -3,7 +3,7 @@
 - 🔭 I’m Sourab Hossain
 - 💻 I'm currently working on something cool
 - 👀 I’m looking to collaborate on Open Source Dev Community
-- 💬 Ask me about anything related to JavaScript/ TypeScript OR Express JS 
+- 💬 Ask me about anything related to JavaScript/ TypeScript OR Node JS 
 
 ### My stacks
 
