@@ -5,6 +5,7 @@
 - 👀 I’m looking to collaborate on Open Source Dev Community
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💬 Ask me about anything related to JavaScript/ TypeScript OR Node JS 
+- 📫 Email me at [sourab.asia@gmail.com](mailto:sourab.asia@gmail.com).
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
