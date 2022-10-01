@@ -1,7 +1,7 @@
 ### 👋 Hi there! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sourabhossain)
 
 - 🔭 I’m Sourab Hossain
-- 💻 I'm currently working on something cool
+- 💻 I'm currently working on something cool!
 - 📚 I’m currently learning many things, I believe that every day is a learning opportunity.
 - 👀 I’m currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about anything related to Express.js, JavaScript/ TypeScript OR Node JS 
