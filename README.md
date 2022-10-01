@@ -1,4 +1,7 @@
-### 👋 Hi there! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sourabhossain)
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+  Hey! Nice to see you.
+</h1> 
 
 - 🔭 I’m Sourab Hossain
 - 💻 I'm currently working on something cool!
@@ -30,3 +33,5 @@ const myStacks = {
 
 ### Where to find me
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sourabhossain/) [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/cpsourab/) [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/cpsourab)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sourabhossain)
