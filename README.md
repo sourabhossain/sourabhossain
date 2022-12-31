@@ -21,8 +21,8 @@ const myStacks = {
   laguages: ['JavaScript', 'TypeScript', 'PHP'],
   technologies: {
       frontEnd: ['HTML', 'CSS', 'Bootstrap', ...more],
-      frameWork: ['Express JS'],
-      dataBases: ['MySQL'],
+      frameWork: ['Express JS', 'Laravel'],
+      dataBases: ['MySQL', 'MongoDB'],
       tools: ['VS Code', 'Chrome Dev Tool', ...more],
       VCS: ['Git']
   }
