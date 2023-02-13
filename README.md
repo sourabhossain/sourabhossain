@@ -8,7 +8,7 @@
 - 📚 I’m currently learning many things, I believe that every day is a learning opportunity.
 - 👀 I’m currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about anything related to Express.js, JavaScript/ TypeScript OR Node JS
-- 📫 I am just one mail away - [sourab.asia at gmail dot com]
+- 📫 I am just one mail away - [sourab dot asia at gmail dot com]
 - 😄 Pronouns: He, Fat & Happy 😄
 - :wrench: Tools - VSCode, Postman, Markdown Editors, and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac and Linux.
 
