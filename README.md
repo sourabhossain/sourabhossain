@@ -7,10 +7,11 @@
 - 💻 I'm currently working on something cool!
 - 📚 I’m currently learning many things, I believe that every day is a learning opportunity.
 - 👀 I’m currently open for work and employment opportunities (remote and relocation)
-- 💬 Ask me about anything related to Express.js, JavaScript/ TypeScript OR Node JS
+- 💬 If you have any questions or need help with a project related to Express.js, JavaScript/TypeScript, or Node.js, please don't hesitate to reach out!
 - 📫 I am just one mail away - [sourab dot asia at gmail dot com]
-- 😄 Pronouns: He, Fat & Happy 😄
-- :wrench: Tools - VSCode, Postman, Markdown Editors, and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac and Linux.
+- 😄 Pronouns: He/ Him 😄
+- :wrench: Tools - In addition to my core skills, I am also proficient in various other tools and technologies, including VSCode, Postman, Markdown Editors, the Mighty Terminal, Oh MyZSH, and PowerLevel 10K on Mac and Linux.
+
 
 <a href="https://youtu.be/EzcCz5mI5Mc"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
