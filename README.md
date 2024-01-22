@@ -19,10 +19,10 @@
 
 ```js
 const myStacks = {
-  laguages: ['JavaScript', 'TypeScript', 'PHP'],
+  laguages: ['JavaScript', 'TypeScript'],
   technologies: {
       frontEnd: ['HTML', 'CSS', 'Bootstrap', ...more],
-      frameWork: ['Express JS', 'Laravel' ...more],
+      frameWork: ['Express JS', 'NestJs' ...more],
       dataBases: ['MySQL', 'MongoDB', 'Redis'],
       tools: ['VS Code', 'Chrome Dev Tool', ...more],
       VCS: ['Git']
