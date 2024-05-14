@@ -15,20 +15,16 @@
 
 <a href="https://youtu.be/EzcCz5mI5Mc"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### 🚀 My stacks
+## 🚀 My Stack
 
-```js
-const myStacks = {
-  laguages: ['JavaScript', 'TypeScript'],
-  technologies: {
-      frontEnd: ['HTML', 'CSS', 'Bootstrap', ...more],
-      frameWork: ['Express JS', 'NestJs' ...more],
-      dataBases: ['MySQL', 'MongoDB', 'Redis'],
-      tools: ['VS Code', 'Chrome Dev Tool', ...more],
-      VCS: ['Git']
-  }
-};
-```
+- JavaScript
+- TypeScript
+- Node.js
+- Express.js
+- NestJS
+- MySQL
+- MongoDB
+- Redis
 
 <a href="https://youtu.be/EzcCz5mI5Mc"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
