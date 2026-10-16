@@ -2,7 +2,14 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/hero-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="./assets/hero-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <img alt="Sourab Hossain, software engineer in Dhaka building backend and AI systems. Now at SSL Wireless, before Groots Inc. 5+ years in production. Open to new roles." src="./assets/hero-light.svg" width="100%">
+  <img alt="Hi, I'm Sourab. I build backends and AI features for real products, from banking apps to hiring tools. Now at SSL Wireless, before Groots Inc. 5+ years in production. Open to new roles." src="./assets/hero-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/activity-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/activity-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg">
+  <img alt="GitHub contributions over the last year, updated daily." src="./assets/activity-light.svg" width="100%">
 </picture>
 
 <p>
