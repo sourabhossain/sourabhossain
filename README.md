@@ -1,89 +1,72 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:58A6FF&height=200&section=header&text=Sourab%20Hossain&fontSize=50&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Backend%20Engineer%20%7C%20FinTech%20%7C%20Node.js&descSize=18&descAlignY=75&descColor=58A6FF" width="100%"/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Problem+Solver;Backend+%7C+Node.js+%7C+NestJS+%7C+FinTech;Open+to+Dhaka%2C+Remote%2C+or+Relocation" alt="Typing SVG" /></a>
-
-</div>
-
----
-
-## 👋 About Me
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260"/>
-
-I'm a software engineer specializing in **backend development**. I thrive on solving complex problems, creating scalable web applications, and continuously learning new technologies.
-
-- 🔭 **Currently Working On:** Fintech systems at **SSL Wireless**
-- 📚 **Currently Learning:** Distributed systems, microservices, and system design
-- 🌍 **Open For Work:** Dhaka, Remote, or Relocation
-- 💬 **Ask Me About:** Backend development, API design, scalable architectures, and anything Node.js!
-
-<br clear="right"/>
-
----
-
-## 🚀 My Tech Stack
-
-**Languages:**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Backend:**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
-**Databases:**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Tools & DevOps:**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:58A6FF&height=200&section=header&text=Sourab%20Hossain&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full-Stack%20and%20AI%20Systems&descSize=18&descAlignY=60&descColor=c9d1d9" width="100%" />
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhossain&theme=tokyonight&hide_border=true" height="160"/>
+  <a href="https://www.linkedin.com/in/sourabhossain/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://sourabhossain.github.io/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:sourab.career@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Open%20to%20work-2ea44f?style=for-the-badge" />
 </p>
 
----
+## About
 
-## 📬 Let's Connect
+Software engineer with 5+ years of experience building production systems across SaaS, healthcare, workspace management, automation, and fintech.
 
-<p>
-  <a href="https://www.linkedin.com/in/sourabhossain/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://sourabhossain.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:sourab.seu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+I work across the stack, from APIs, queues, and data models to React and Next.js frontends. Lately most of my work is on LLM features that need to be reliable in production: RAG, agents, document understanding, and prompt-injection defense.
 
----
+- **Backend:** NestJS, Laravel, and Django services, REST and GraphQL APIs, background jobs, caching, multi-tenant design
+- **Frontend:** React and Next.js apps with Tailwind CSS
+- **AI:** LangGraph agents, RAG with vector search, vision models for documents, evals and tests around LLM output
+- **Open to:** full-time roles and contract work. Dhaka, remote, or relocation.
 
-## ⚡ Fun Fact
+## Featured Projects
 
-I believe the terminal is where magic happens. From debugging to deployment, it's my favorite playground!
+| Project | What it does | Stack |
+|---|---|---|
+| [**Invoice Intake**](https://github.com/sourabhossain/invoice-intake) | Reads Japanese supplier invoices (PDFs and scans) with a vision model, recomputes every number locally, registers only what it can prove into the accounting API, and routes the rest to a human with a reason. | Python, Vision LLM |
+| [**JiggasAI**](https://github.com/sourabhossain/JiggasAI) | Personal RAG agent with streaming chat, web search, conversation memory, PDF preview, and role-based access. | Django, LangGraph, Ollama, ChromaDB, Docker |
+| [**Prompt Vault**](https://github.com/sourabhossain/prompt-vault) | Chrome extension, live on the Chrome Web Store. Type `//` in any text field to insert saved prompts with variables. All data stays in the browser. | TypeScript, Chrome Extension |
+| [**Grocery Booking System**](https://github.com/sourabhossain/grocery-booking-system) | Production-ready grocery ordering API with JWT refresh rotation, CI, and 80%+ test coverage. | NestJS, MySQL, Redis, Docker |
+| [**MongoDB Query Parser**](https://github.com/sourabhossain/mongodb-query-parser) | Node.js package that turns MongoDB REST APIs into Graph APIs. | Node.js, MongoDB |
+| [**Lisp to JS Compiler**](https://github.com/sourabhossain/lisp-to-js-compiler) | Small compiler that parses Lisp-like syntax, transforms the AST, and generates runnable JavaScript. | JavaScript |
 
-> *"Every great engineer was once a beginner"* — I embrace lifelong learning and love to share knowledge.
+## Experience Highlights
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sourabhossain&style=flat-square&color=58A6FF&label=Profile+Views"/>
-</div>
+**SSL Wireless**
+- Built ResumeAI, an LLM resume screening platform running in production at career.sslwireless.com: multi-tenant, 8 job families, prompt-injection defense, 570+ automated tests (Django, Celery, LangGraph)
+- Built Facebook catalog sync for ZCOMMERZ, a multi-merchant e-commerce SaaS (NestJS, Meta Graph API, BullMQ)
+- Worked on payment and banking integrations, including SSLCOMMERZ and partner banks
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1a1a2e&height=120&section=footer" width="100%"/>
+**Groots Inc.**
+- Built a custom NoSQL query parser and led a microservices migration for a SaaS product in the Japanese market
+
+## Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,php&perline=12" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,django,fastapi&perline=12" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind&perline=12" />
+
+**Data**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=12" />
+
+**Cloud and DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,githubactions,linux&perline=12" />
+
+**AI**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-58A6FF?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%" />
