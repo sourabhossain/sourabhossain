@@ -1,0 +1,50 @@
+name: Update activity card
+
+on:
+  schedule:
+    - cron: "17 0 * * *" # every day at 06:17 Dhaka time
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: activity-card
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install font tools and fonts
+        run: |
+          pip install fonttools==4.53.1 brotli==1.1.0
+          mkdir -p /tmp/fonts && cd /tmp/fonts
+          npm pack @fontsource/inter@5.0.18 @fontsource/jetbrains-mono@5.0.18 >/dev/null
+          tar -xzf fontsource-inter-5.0.18.tgz package/files/inter-latin-600-normal.woff2 --strip-components=2
+          tar -xzf fontsource-jetbrains-mono-5.0.18.tgz package/files/jetbrains-mono-latin-500-normal.woff2 --strip-components=2
+
+      - name: Build activity cards
+        env:
+          FONT_DIR: /tmp/fonts
+          GH_USER: ${{ github.repository_owner }}
+        run: python .github/scripts/activity.py --out assets
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- assets; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/activity-*.svg
+          git commit -m "Update activity card"
+          git push
