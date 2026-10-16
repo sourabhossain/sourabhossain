@@ -1,4 +1,6 @@
 <picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/hero-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/hero-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <img alt="Sourab Hossain, software engineer in Dhaka building backend and AI systems. Now at SSL Wireless, before Groots Inc. 5+ years in production. Open to new roles." src="./assets/hero-light.svg" width="100%">
 </picture>
